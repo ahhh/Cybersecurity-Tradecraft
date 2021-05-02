@@ -19,7 +19,7 @@ $ sudo iptables -t nat -A PREROUTING -i eth0 -p tcp -m tcp -m multiport --dports
 ## Tarpitting traffic
 This next command uses the [Xtables_addons](https://inai.de/projects/xtables-addons/) for iptables to set the TCP window size to 0 for port 3306, but keep the connection open, classily known as a network tarpit
 ```
-iptables -A INPUT -p tcp --dport 3306 -j TARPIT
+$ sudo iptables -A INPUT -p tcp --dport 3306 -j TARPIT
 ```
 This last command will clear all of the iptables rules:
 ```
