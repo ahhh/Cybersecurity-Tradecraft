@@ -1,4 +1,4 @@
-# Invisible is Best (Operating in Memory)
+# Chapter 3 - Invisible is Best (Operating in Memory)
 This chapter is all about process injection, hiding in memory, and detecting process injection techniques
 
 ## Topics
