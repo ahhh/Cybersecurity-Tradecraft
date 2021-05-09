@@ -3,6 +3,6 @@
 
 ## Things to do
 
-- Publish website
+- Finish website
 - Publish Amazon page
-- Publish Book (and supporting code)
+- Publish [supporting code](https://github.com/ahhh/Cybersecurity-Tradecraft)
