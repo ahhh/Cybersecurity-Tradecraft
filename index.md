@@ -1,6 +1,8 @@
 
 # Hello Hackers
 
+![offense vs defense](AdversarialTradecraftCover.jpg "Adversarial Tradecraft in Cybersecurity")
+
 ## Things to do
 - Finish website
 - Publish book (June 11th)!
