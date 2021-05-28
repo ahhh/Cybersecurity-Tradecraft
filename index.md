@@ -12,5 +12,5 @@
 ## Things to do
 - Finish website
 - Publish supporting images
-- Publish book (June 11th)!
+- Publish book (June 9th)!
 - Promote book
