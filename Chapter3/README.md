@@ -28,13 +28,13 @@ The following are some of the code samples included in this chapter:
 These are some of the images in this chapter to help understand memory operations
 
 
-The following image demonstrates the extra steps the defense must take and the ephemeral attributes added to offensive oppations when tools are executed in memory \ 
+The following image demonstrates the extra steps the defense must take and the ephemeral attributes added to offensive oppations when tools are executed in memory <br />
 ![disk vs memoery tradeoff](https://raw.githubusercontent.com/ahhh/Cybersecurity-Tradecraft/main/Chapter3/diskvsmemory.PNG)
 
 
-The next image demonstrates the above attack tree when placed inside an offensive kill chain \
+The next image demonstrates the above attack tree when placed inside an offensive kill chain <br />
 ![memory ops kill chain](https://raw.githubusercontent.com/ahhh/Cybersecurity-Tradecraft/main/Chapter3/memorytradeoffkillchain.PNG)
 
 
-The last image represents how the defense can prepare for these opperations to detect and respond to them sooner \
+The last image represents how the defense can prepare for these opperations to detect and respond to them sooner <br />
 ![defense ready for memory ops](https://raw.githubusercontent.com/ahhh/Cybersecurity-Tradecraft/main/Chapter3/defendermemoryaware.PNG)
