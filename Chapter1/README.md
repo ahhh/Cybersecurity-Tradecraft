@@ -78,6 +78,7 @@ The following are some principles which can add a huge advantage to a computer c
 #### <u>**Principle of Time**</u>
 
 
+## Images
 The following is an example of attack graphs mapped to kill chains, from the paper 
 [A Combined Attack-Tree and Kill-Chain Approach to Designing Attack-Detection Strategies for Malicious Insiders in Cloud Computing](https://www.c-mric.com/wp-content/uploads/2019/06/Adrian_CyberScience2019.pdf).
 ![attack graph mapped to a kill chain](https://raw.githubusercontent.com/ahhh/Cybersecurity-Tradecraft/main/Chapter1/Chap1.example.PNG)
