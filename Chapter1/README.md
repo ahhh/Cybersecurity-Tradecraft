@@ -23,31 +23,31 @@ This chapter covers several topics such as:
 CIAAAN stands for **confidentiality**, **integrity**, **availability**, **authentication**, **autherization**, and **non-repudiation**
 
 
-#### <span style="text-decoration: underline">Confidentiality</span>
+#### <u>Confidentiality</u>
 
 Confidentiality is the ability to keep communications secret. This means data can't be read by unauthorized parties.
 
 
-#### <span style="text-decoration: underline">Integrity</span>
+#### <u>Integrity</u>
 
 Integrity is our ability to ensure information remains what we intend it to be. This means commands, logs, file,s or any information that we set remains true to its intended setting.
 
-#### <span style="text-decoration: underline">Availability</span>
+#### <u>Availability</u>
 
 Availability means we can access the data or services in question. This means we can reach or list the service or data.
 
 
-#### <span style="text-decoration: underline">Authentication</span>
+#### <u>Authentication</u>
 
 Authentication is the ability for a party to prove their identity to the system. This means users can verify they belong to the system.
 
 
-#### <span style="text-decoration: underline">Autherization</span>
+#### <u>Autherization</u>
 
 Autherization is someone's privliges within a specific system. This means a user needs clearence to read or write to specific objects.
 
 
-#### <span style="text-decoration: underline">Non-repudiation</span>
+#### <u>Non-repudiation</u>
 
 Non-repudiation is the ability to create logs or events to prove that events happened. This means we can generate a forensic reconstruction of events or see what happened historically. 
 
@@ -57,26 +57,28 @@ Non-repudiation is the ability to create logs or events to prove that events hap
 The following are some principles which can add a huge advantage to a computer conflict.
 
 
-#### <span style="text-decoration: underline">Principle of Deception</span>
+#### <u>Principle of Deception</u>
 
 
-#### <span style="text-decoration: underline">Principle of Physical Access</span>
+#### <u>Principle of Physical Access</u>
 
 
-#### <span style="text-decoration: underline">Principle of Humanity</span>
+#### <u>Principle of Humanity</u>
 
 
-#### <span style="text-decoration: underline">Principle of Economy</span>
+#### <u>Principle of Economy</u>
 
 
-#### <span style="text-decoration: underline">Principle of Planning</span>
+#### <u>Principle of Planning</u>
 
 
-#### <span style="text-decoration: underline">Principle of Innovation</span>
+#### <u>Principle of Innovation</u>
 
 
-#### <span style="text-decoration: underline">Principle of Time</span>
+#### <u>Principle of Time</u>
 
 
-The following is an example of attack graphs mapped to kill chains, from the paper [A Combined Attack-Tree and Kill-Chain Approach to Designing Attack-Detection Strategies for Malicious Insiders in Cloud Computing](https://www.c-mric.com/wp-content/uploads/2019/06/Adrian_CyberScience2019.pdf).
+The following is an example of attack graphs mapped to kill chains, from the paper 
+
+[A Combined Attack-Tree and Kill-Chain Approach to Designing Attack-Detection Strategies for Malicious Insiders in Cloud Computing](https://www.c-mric.com/wp-content/uploads/2019/06/Adrian_CyberScience2019.pdf).
 ![attack graph mapped to a kill chain](https://raw.githubusercontent.com/ahhh/Cybersecurity-Tradecraft/main/Chapter1/Chap1.example.PNG)
