@@ -19,3 +19,15 @@ This chapter covers several topics such as:
  - Post-mortem analysis
  - Publishing lessons learned
  - Forward looking activities
+
+## Images
+The following are some images included in this chapter
+
+This image shows some consideration that could be done on when to respond to a incident
+![When should a defender respond](https://raw.githubusercontent.com/ahhh/Cybersecurity-Tradecraft/main/Chapter8/whentorespond.PNG)
+
+This image shows what happens if a defender responds too soon without fully scoping the incident
+![A defender responds without fully scopiong the incident](https://raw.githubusercontent.com/ahhh/Cybersecurity-Tradecraft/main/Chapter8/defenderrespondedtoosoon.PNG)
+
+This last images shows how a defender can triage their entire fleet, quarantine hosts, and perform RCA strategicly
+![A defender responds with scoping, quarantine, and RCA](https://raw.githubusercontent.com/ahhh/Cybersecurity-Tradecraft/main/Chapter8/defendertriagerca.PNG)
