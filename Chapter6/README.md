@@ -40,3 +40,12 @@ The following are some of the code samples included in this chapter:
     - Several commands to block IP addresses on both Linux and Windows
 - [network_quarantine.sh](https://github.com/ahhh/Cybersecurity-Tradecraft/blob/main/Chapter6/network_quarantine.sh)
     - A script to fully quarantine a Linux host, allowing only traffic from an administrative IP
+
+## Images 
+The following are some of the images included in this chapter:
+
+This image shows how an attacker could abuse credential stealing techniques
+![Offense attacks users of the system](https://raw.githubusercontent.com/ahhh/Cybersecurity-Tradecraft/main/Chapter6/attackerstealscreds.PNG)
+
+This image shows how a defender could quarantine a system while responding to it
+![Defensive quarantine](https://raw.githubusercontent.com/ahhh/Cybersecurity-Tradecraft/main/Chapter6/quarantineresponse.PNG)
