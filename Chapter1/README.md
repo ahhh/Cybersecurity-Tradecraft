@@ -1,4 +1,4 @@
-# Chapter 1 - Thoery on Adversarial Operations and Principles of Computer Conflict
+# Chapter 1 - Theory on Adversarial Operations and Principles of Computer Conflict
 This chapter is all about theory and setting us up with guidance for future chapters
 
 ## Topics
