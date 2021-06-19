@@ -35,7 +35,7 @@ CIAAAN stands for **confidentiality**, **integrity**, **availability**, **authen
 **Authentication** is the ability for a party to prove their identity to the system. This means users can verify they belong to the system.
 
 
-**Autherization** is someone's privliges within a specific system. This means a user needs clearence to read or write to specific objects.
+**Authorization** is someone's privliges within a specific system. This means a user needs clearence to read or write to specific objects.
 
 
 **Non-repudiation** is the ability to create logs or events to prove that events happened. This means we can generate a forensic reconstruction of events or see what happened historically. 
