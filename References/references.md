@@ -444,7 +444,7 @@ https://github.com/BinaryDefense/artillery
 
 ## Chapter 5 - Active Manipulation
 1. Simple userland rootkit – A case study:  <br />
-https://blog.malwarebytes.com/threat-analysis/2016/12/simple-userland-rootkit-a-casestudy/#:~:text=Rootkits%20are%20tools%20and%20techniques,being%20noticed%20by%20system%20monitoring
+https://blog.malwarebytes.com/threat-analysis/2016/12/simple-userland-rootkit-a-case-study/#:~:text=
 2. Eventlogedit-evtx--Evolution – A project devoted to different event log clearing techniques:  <br />
 https://github.com/3gstudent/Eventlogedit-evtx--Evolution
 3. Windows XML event log Editing:  <br />
