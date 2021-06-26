@@ -213,8 +213,8 @@ https://twitter.com/johnlatwc/status/442760491111178240
 https://github.com/Tib3rius/AutoRecon
 64. Scantron, a distributed scanning solution with a web interface: <br />
 https://github.com/rackerlabs/scantron
-65. nmap vulners, an advanced vulnerability scanning module for nmap: https://
-github.com/vulnersCom/nmap-vulners
+65. nmap vulners, an advanced vulnerability scanning module for nmap: <br />
+https://github.com/vulnersCom/nmap-vulners
 66. OpenVAS, an open-source vulnerability scanning solution: <br />
 https://github.com/greenbone/openvas
 67. Metasploit, a modular, open source scanning, exploitation, and post exploitation framework: <br />
@@ -357,10 +357,89 @@ https://github.com/dnSpy/dnSpy
 https://rules.emergingthreats.net/open/snort-2.9.0/emerging-all.rules
 
 
-
-## Chapter 4
-
-
+## Chapter 4 - Blending In
+1. SANS: Know Normal...Find Evil:  <br />
+https://www.sans.org/security-resources/posters/dfir-find-evil/35/download
+2. Eric Zimmerman's Forensic Tools:  <br />
+https://ericzimmerman.github.io/
+3. SANS: Results in Seconds at the Command-line:  <br />
+https://web.archive.org/web/20210324161646/https://digital-forensics.sans.org/media/DFIRCommand-Line.pdf
+4. Technical Analysis – MSBuild App Whitelisting Bypass:  <br />
+https://community.carbonblack.com/t5/Threat-Advisories-Documents/Technical-AnalysisMSBuild-App-Whitelisting-Bypass/ta-p/62308
+5. Offensive Lateral Movement with MSBuild and Others:  <br />
+https://posts.specterops.io/offensive-lateral-movement-1744ae62b14f
+6. CertUtil.exe Could Allow Attackers To Download Malware While Bypassing AV – Using certutil to download tools:  <br />
+https://www.bleepingcomputer.com/news/security/certutilexe-could-allow-attackers-to-download-malwarewhile-bypassing-av/
+7. AppInstaller.exe LOLbin technique:  <br />
+https://twitter.com/notwhickey/status/1333900137232523264
+8. Windows Dynamic-Link Library (DLL) Search Order:  <br />
+https://docs.microsoft.com/en-us/windows/win32/dlls/dynamic-link-library-search-order
+9. Find-PathDLLHijack – PowerSploit PrivEsc function for DLL search order hijacking:  <br />
+https://powersploit.readthedocs.io/en/latest/Privesc/FindPathDLLHijack/
+10. Binjection – The Go successor to the Backdoor Factory:  <br />
+https://github.com/Binject/binjection
+11. The Backdoor Factory – A Python Tool For Backdooring Executable Files:  <br />
+https://github.com/secretsquirrel/the-backdoor-factory
+12. Prism Backdoor – This uses ICMP as a covert channel:  <br />
+https://github.com/andreafabrizi/prism
+13. icmpdoor - ICMP Reverse Shell:  <br />
+https://github.com/krabelize/icmpdoor
+14. Scapy Wiki – A library for manipulating different networking packet layers:  <br />
+https://scapy.readthedocs.io/en/latest/introduction.html
+15. icmpdoor - ICMP Reverse Shell in Python 3 – A deep dive on icmpdoor:  <br />
+https://cryptsus.com/blog/icmp-reverse-shell.html
+16. Sliver Wiki – Instructions to Compile From Source:  <br />
+https://github.com/BishopFox/sliver/wiki/Compile-From-Source
+17. Sliver Wiki – Instructions To Set Up DNS C2:  <br />
+https://github.com/BishopFox/sliver/wiki/DNS-C2#setup
+18. Securing our approach to domain fronting within Azure:  <br />
+https://www.microsoft.com/security/blog/2021/03/26/securing-our-approach-to-domainfronting-within-azure/
+19. Domain Fronting with Metasploit and Meterpreter:  <br />
+https://beyondbinary.io/articles/domain-fronting-with-metasploit-and-meterpreter/
+20. LMNTRIX Labs: Hiding In Plain Sight with Reflective Injection and Domain Fronting:  <br />
+https://lmntrix.com/lab/lmntrix-labs-hiding-in-plain-sightwith-reflective-injection-and-domain-fronting/
+21. Detecting ICMP Covert Channels through Payload Analysis:  <br />
+https://www.trisul.org/blog/detecting-icmp-covert-channels-through-payloadanalysis/
+22. Detecting Covert Channels with Snort:  <br />
+https://resources.infosecinstitute.com/topic/snort-covert-channels/
+23. dnstap – A Series of Libraries and Log Formats For DNS:  <br />
+http://dnstap.info/
+24. How To Set Up And Configure DNS On Windows Server 2016:  <br />
+https://www.businessnewsdaily.com/11019-set-up-configure-dns-on-windowsserver-2016.html
+25. PowerShell DNS Debug Log:  <br />
+https://p0wershell.com/wp-content/uploads/2017/06/Reading-DNS-Debug-logs.ps1_.txt
+26. Get-SysMonLogs – A Wrapper for Parsing Sysmon Logs from event log:  <br />
+https://github.com/0daysimpson/Get-SysmonLogs
+27. Greg Farnham, Detecting DNS Tunneling:  <br />
+https://www.sans.org/readingroom/whitepapers/dns/detecting-dns-tunneling-34152
+28. Detecting Random – Finding Algorithmically chosen DNS names (DGA):  <br />
+https://isc.sans.edu/forums/diary/Detecting+Random+Finding+Algorithmically+chosen+DNS+names+DGA/19893/
+29. Freq – A tool and library for performing frequency analysis:  <br />
+https://github.com/markbaggett/freq
+30. Autoruns for Windows v13.98, Part of the Sysinternals Suite:  <br />
+https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns
+31. MITRE ATT&CK: Boot or Logon Autostart Execution: Registry Run Keys / Startup Folder:  <br />
+https://attack.mitre.org/techniques/T1547/001/
+32. Hexacorn's Persistence Blog Entries(Over 133 at writing):  <br />
+https://www.hexacorn.com/blog/category/autostart-persistence/
+33. Robber – A Tool to Detect DLL Search Order Hijacking:  <br />
+https://github.com/MojtabaTajik/Robber
+34. Code Signing Certificate Cloning Attacks and Defenses:  <br />
+https://posts.specterops.io/code-signing-certificate-cloning-attacks-and-defenses6f98657fc6ec
+35. PowerShell Script Demoing a Certificate Cloning Attack – Cert-Clone.ps1:  <br />
+https://gist.github.com/ahhh/4467b73425601a46bd0fdfaa4fc84ccd
+36. PowerShell Script to Deploy Honey Tokens in AD - Deploy-Deception:  <br />
+https://github.com/samratashok/Deploy-Deception
+37. Responder – An offensive local network tool:  <br />
+https://github.com/lgandx/Responder
+38. Respounder – An anti-Responder deception tool:  <br />
+https://github.com/codeexpress/respounder
+39. T-Pot – A multi-honeypot Tool:  <br />
+https://github.com/telekom-security/tpotce
+40. T-Pot – Community Data Submission:  <br />
+https://github.com/telekom-security/tpotce#community-data-submission
+41. Artillery – A Python project that uses honeypots to detect malicious actors on the network:  <br />
+https://github.com/BinaryDefense/artillery
 
 
 ## Chapter 5
