@@ -448,7 +448,7 @@ https://blog.malwarebytes.com/threat-analysis/2016/12/simple-userland-rootkit-a-
 2. Eventlogedit-evtx--Evolution – A project devoted to different event log clearing techniques:  <br />
 https://github.com/3gstudent/Eventlogedit-evtx--Evolution
 3. Windows XML event log Editing:  <br />
-https://3gstudent.github.io/Windows-XMLEvent-Log-(EVTX)%E5%8D%95%E6%9D%A1%E6%97%A5%E5%BF%97%E6%B8%85%E9%99%A4-%E4%BA%8C-%E7%A8%8B%E5%BA%8F%E5%AE%9E%E7%8E%B0%E5%88%A0%E9%99%A4evtx%E6%96%87%E4%BB%B6%E7%9A%84%E5%8D%95%E6%9D%A1%E6%97%A5%E5%BF%97%E8%AE%B0%E5%BD%95
+https://3gstudent.github.io/Windows-XML-Event-Log-(EVTX)%E5%8D%95%E6%9D%A1%E6%97%A5%E5%BF%97%E6%B8%85%E9%99%A4-%E4%B8%89-%E9%80%9A%E8%BF%87%E8%A7%A3%E9%99%A4%E6%96%87%E4%BB%B6%E5%8D%A0%E7%94%A8%E5%88%A0%E9%99%A4%E5%BD%93%E5%89%8D%E7%B3%BB%E7%BB%9F%E5%8D%95%E6%9D%A1%E6%97%A5%E5%BF%97%E8%AE%B0%E5%BD%95
 4. danderspritz-evtx – The event log cleaning code from the leaked NSA toolkit:  <br />
 https://github.com/fox-it/danderspritz-evtx
 5. EventCleaner – A project for removing Windows event logs:  <br />
