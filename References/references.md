@@ -262,8 +262,99 @@ https://www.kali.org/
 https://casa.sandia.gov/_assets/documents/2017-09-13_Metrics_QRS-Paper-Size.pdf
 
 
-## Chapter 3
-
+## Chapter 3 - Invisible is Best (Operating in Memory)
+1. How to Use the dd Command in Forensics – Using dd to create a forensic image:  <br />
+https://linuxhint.com/dd%C2%AC_command_forensics/
+2. Sleuth Kit Autopsy in-depth tutorial – Forensic analysis with The Sleuth Kit Framework:  <br />
+https://linuxhint.com/sleuth_kit_autopsy/
+3. Plaso, Forensic Timeline Tool:  <br />
+https://plaso.readthedocs.io/en/latest/sources/user/Users-Guide.html
+4. Autopsy Digital Forensics, Law Enforcement Bundle:  <br />
+https://www.autopsy.com/use-case/law-enforcement/
+5. Advanced Persistent Threats – APTs are well-resourced offensive groups:  <br />
+https://en.wikipedia.org/wiki/Advanced_persistent_threat
+6. ATT&CK Deep Dive: Process Injection:  <br />
+https://www.youtube.com/watch?v=CwglaQRejio
+7. MITRE ATT&CK's Process Injection Page:  <br />
+https://attack.mitre.org/techniques/T1055/
+8. Hexacorn's Blog Listing Various Processes Injection Techniques:  <br />
+https://www.hexacorn.com/blog/2019/05/26/plata-o-plomo-code-injections-executiontricks/
+9. Ten process injection techniques: A technical survey of common and trending process injection techniques:  <br />
+https://www.elastic.co/blog/ten-process-injectiontechniques-technical-survey-common-and-trending-process
+10. CreateRemoteThread Process Injection Technique:  <br />
+https://www.ired.team/offensive-security/code-injection-process-injection/process-injection
+11. Windows Privilege Abuse: Auditing, Detection, and Defense:  <br />
+https://blog.palantir.com/windows-privilege-abuse-auditing-detection-and-defense3078a403d74e
+12. Shellcode Obfuscation Framework, Obsfucator:  <br />
+https://github.com/3xpl01tc0d3r/Obfuscator
+13. Using MSBuild to Execute Shellcode in C#:  <br />
+https://www.ired.team/offensivesecurity/code-execution/using-msbuild-to-execute-shellcode-in-c
+14. NSA-leaking Shadow Brokers just dumped its most damaging release yet:  <br />
+https://arstechnica.com/information-technology/2017/04/nsa-leaking-shadowbrokers-just-dumped-its-most-damaging-release-yet/
+15. EternalBlue exploit:  <br />
+https://github.com/3ndG4me/AutoBlue-MS17-010/blob/master/eternalblue_exploit7.py
+16. Meterpreter + Donut = Reflectively and Interactively Executing Arbitrary Executables via Shellcode Injection:  <br />
+https://iwantmore.pizza/posts/meterpreter-shellcode-inject.html
+17. The Sliver Command and Control Framework:  <br />
+https://github.com/BishopFox/sliver
+18. Sliver's generic, native OS function handlers:  <br />
+https://github.com/BishopFox/sliver/blob/master/implant/sliver/handlers/handlers.go
+19. Gobfuscate – A Go obfuscation framework:  <br />
+https://github.com/unixpickle/gobfuscate
+20. Garble's Implementation in the Sliver Framework:  <br />
+https://github.com/BishopFox/sliver/blob/9beb445a3dbdd6d06a285d3833b5f9ce2dca731c/server/gogo/go.go#L131
+21. The Garble Obfuscation Framework:  <br />
+https://github.com/burrowers/garble
+22. Seatbelt – A .NET project for performing on-host operational security checks:  <br />
+ttps://github.com/GhostPack/Seatbelt
+23. How Red Teams Bypass AMSI and WLDP for .NET Dynamic Code:  <br />
+https://modexp.wordpress.com/2019/06/03/disable-amsi-wldp-dotnet/
+24. Detect and react to a Shellshock attack – Using Wazuh to detect malicious processes: <br />
+https://documentation.wazuh.com/current/learning-wazuh/shellshock.html
+25. Masking Malicious Memory Artifacts – Part I: Phantom DLL Hollowing:  <br />
+https://www.forrest-orr.net/post/malicious-memory-artifacts-part-i-dllhollowing
+26. Understanding and Evading Get-InjectedThread – _xpn_ shows how to evade GetInjectedThread by tweaking the CreateRemoteThread technique:  <br />
+https://blog.xpnsec.com/undersanding-and-evading-get-injectedthread/
+27. The NtAllocateVirtualMemory function (ntifs.h):  <br />
+https://docs.microsoft.com/en-us/windows-hardware/drivers/ddi/ntifs/nf-ntifsntallocatevirtualmemory
+28. The NtProtectVirtualMemory function, used to change memory permissions:  <br />
+http://www.codewarrior.cn/ntdoc/winnt/mm/NtProtectVirtualMemory.htm
+29. Agent Tesla: Evading EDR by Removing API Hooks:  <br />
+https://securityboulevard.com/2019/08/agent-tesla-evading-edr-by-removingapi-hooks/
+30. Automating Detection of Known Malware through Memory Forensics:  <br />
+https://volatility-labs.blogspot.com/2016/08/automating-detection-of-knownmalware.html
+31. Finding DLL Name from the Process Environment Block (PEB):  <br />
+https://vdalabs.com/2018/09/19/finding-dll-name-from-the-process-environment-blockpeb/
+32. Hasherezade's libPeConv, a library for investigating PE files:  <br />
+https://github.com/hasherezade/libpeconv
+33. Hasherezade's PE-sieve, a tool for detecting malicious memory artifacts:  <br />
+https://github.com/hasherezade/pe-sieve
+34. Using PE-sieve: an open-source scanner for hunting and unpacking malware:  <br />
+https://www.youtube.com/watch?v=fwo4XE2xgis
+35. PE-sieve – import recovery and unpacking UPX (part 1):  <br />
+https://www.youtube.com/watch?v=eTt3QU0F7V0
+36. Hasherezade's hollows_hunter, a tool that automates PE-sieve scanning:  <br />
+https://github.com/hasherezade/hollows_hunter
+37. BLUESPAWN, a defensive Swiss Army knife:  <br />
+https://github.com/ION28/BLUESPAWN
+38. BlackHillsInfosec Demonstrating Bypassing EDR Sensors:  <br />
+https://www.blackhillsinfosec.com/tag/sacred-cash-cow-tipping/
+39. Microsoft's Sysmon Security Sensor:  <br />
+https://docs.microsoft.com/en-us/sysinternals/downloads/sysmon
+40. SwiftOnSecurity's Base Sysmon Config:  <br />
+https://github.com/SwiftOnSecurity/sysmon-config
+41. A Sysmon Rule for Some Process Injection Techniques:  <br />
+https://github.com/olafhartong/sysmon-modular/blob/master/10_process_access/include_process_suspend_resume.xml
+42. Olaf Hartong's combined Sysmon config:  <br />
+https://github.com/olafhartong/sysmon-modular/blob/master/sysmonconfig.xml
+43. ILSpy, An Open-Source .NET Assembly Browser and Decompiler:  <br />
+https://github.com/icsharpcode/ILSpy
+44. Jetbrains C# Decompiler, dotPeek:  <br />
+https://www.jetbrains.com/decompiler/
+45. dnSpy, An Open-Source .NET Debugger, Decompiler, and Assembly Editor:  <br />
+https://github.com/dnSpy/dnSpy
+46. Emerging Threats, Network Security Signatures for Snort:  <br />
+https://rules.emergingthreats.net/open/snort-2.9.0/emerging-all.rules
 
 
 
