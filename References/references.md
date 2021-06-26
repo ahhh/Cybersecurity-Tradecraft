@@ -442,19 +442,273 @@ https://github.com/telekom-security/tpotce#community-data-submission
 https://github.com/BinaryDefense/artillery
 
 
-## Chapter 5
+## Chapter 5 - Active Manipulation
+1. Simple userland rootkit – A case study:  <br />
+https://blog.malwarebytes.com/threat-analysis/2016/12/simple-userland-rootkit-a-casestudy/#:~:text=Rootkits%20are%20tools%20and%20techniques,being%20noticed%20by%20system%20monitoring
+2. Eventlogedit-evtx--Evolution – A project devoted to different event log clearing techniques:  <br />
+https://github.com/3gstudent/Eventlogedit-evtx--Evolution
+3. Windows XML event log Editing:  <br />
+https://3gstudent.github.io/Windows-XMLEvent-Log-(EVTX)%E5%8D%95%E6%9D%A1%E6%97%A5%E5%BF%97%E6%B8%85%E9%99%A4-%E4%BA%8C-%E7%A8%8B%E5%BA%8F%E5%AE%9E%E7%8E%B0%E5%88%A0%E9%99%A4evtx%E6%96%87%E4%BB%B6%E7%9A%84%E5%8D%95%E6%9D%A1%E6%97%A5%E5%BF%97%E8%AE%B0%E5%BD%95
+4. danderspritz-evtx – The event log cleaning code from the leaked NSA toolkit:  <br />
+https://github.com/fox-it/danderspritz-evtx
+5. EventCleaner – A project for removing Windows event logs:  <br />
+https://github.com/QAX-A-Team/EventCleaner
+6. How to crash the Windows' event logging Service:  <br />
+https://limbenjamin.com/articles/crash-windows-event-logging-service.html
+7. apache2_BackdoorMod:  <br />
+https://github.com/VladRico/apache2_BackdoorMod
+8. dragon – An older Windows service and WinPcap backdoor:  <br />
+https://github.com/Shellntel/backdoors
+9. Windows-Rootkits – An assorted collection of Windows rootkits:  <br />
+https://github.com/LycorisGuard/Windows-Rootkits
+10. Reptile – Linux loadable kernel module rootkit:  <br />
+https://github.com/f0rb1dd3n/Reptile
+11. khook – A simplified Linux kernel hooking engine:  <br />
+https://github.com/milabs/khook
+12. khook – Deep-dive on the Linux kernel hooking framework:  <br />
+https://dk72njlsmbogubz637bkapyxvm--www-cnblogs-com.translate.goog/likaiming/p/10970543.html
+13. kmatryoshka – A framework for loading objects into an lkm:  <br />
+https://github.com/milabs/kmatryoshka
+14. The rootkit Reptile's local cli usage:  <br />
+https://github.com/f0rb1dd3n/Reptile/wiki/Local-Usage
+15. Reptile hiding its kernel module:  <br />
+https://github.com/linux-rootkits/Reptile/blob/master/rep_mod.c#L145
+16. The Five D's of Defense:  <br />
+https://alamom.com/5defense/
+17. Converting PCAP Web Traffic to Apache Log – Xavier Merten's Lua Script:  <br />
+https://isc.sans.edu/forums/diary/Converting+PCAP+Web+Traffic+to+Apache+Log/23739/
+18. Haka Security, a framework for alerting on pcap data:  <br />
+http://www.haka-security.org/
+19. The LD_PRELOAD trick:  <br />
+www.goldsborough.me/c/low-level/kernel/2016/08/29/16-48-53-the_-ld_preload-_trick/
+20. rkhunter – Linux rootkit detection tool:  <br />
+https://en.wikipedia.org/wiki/Rkhunter
+21. processdecloak:  <br />
+https://github.com/sandflysecurity/sandflyprocessdecloak
+22. unhide – Linux rootkit detection tool:  <br />
+https://linux.die.net/man/8/unhide
+23. Linux Memory Forensics Part 2 – Detection Of Malicious Artifacts:  <br />
+https://www.otorio.com/resources/linux-memory-forensics-part-2-detection-ofmalicious-artifacts/
+24. SANS: Discovery of a Rootkit:  <br />
+https://web.archive.org/web/20210216065908/https://digital-forensics.sans.org/community/papers/gcfa/discoveryrootkit-simple-scan-leads-complex-solution_244
+25. Portspoof – A unique approach to countering network scanning:  <br />
+https://drk1wi.github.io/portspoof
+26. LaBrea – Old-school network tarpit utility:  <br />
+https://github.com/Hirato/LaBrea
+27. Description of Windows TCP features:  <br />
+https://docs.microsoft.com/en-us/troubleshoot/windows-server/networking/description-tcp-features
+28. Tarpit functionality added to iptables with Xtables-addons:  <br />
+https://inai.de/projects/xtables-addons/
+29. Mathias Jessen - Attack Surface Reductions for Adventurous Admins:  <br />
+https://youtube.com/ watch?v=KVYtPpxj_S0&t=2167
+30. RansomTraps – Ransomware early detection project:  <br />
+https://github.com/DrMint/Anti-Ransomware
+31. Zip bomb basics:  <br />
+https://en.wikipedia.org/wiki/Zip_bomb
+32. The classic 42.zip zip bomb:  <br />
+https://www.unforgettable.dk/
+33. A better zip bomb:  <br />
+https://www.bamsoftware.com/hacks/zipbomb/
 
 
+## Chapter 6 - Real-Time Conflict
+1. Known Good, Statically Compiled \*nix tools:   <br />
+https://github.com/andrew-d/static-binaries
+2. Seatbelt – C# tool that performs host-based security reconnaissance:   <br />
+https://github.com/GhostPack/Seatbelt
+3. pspy – Unprivileged Linux process snooping:   <br />
+https://github.com/DominicBreuker/pspy
+4. Ain't No Party Like A Unix Party – by Adam Boileau:   <br />
+https://www.youtube.com/watch?v=o5cASgBEXWY
+5. DEEPCE – Docker Enumeration, Escalation of Privileges and Container Escapes:   <br />
+https://github.com/stealthcopter/deepce
+6. sKeylogger – Simple Linux keylogger:   <br />
+https://github.com/gsingh93/simplekey-logger
+7. xspy – X11-based keylogger:   <br />
+https://github.com/mnp/xspy
+8. John Simpson's Recording SSH sessions:   <br />
+https://jms1.net/ssh-record.shtml
+9. Rootsh – Go shell wrapper and keylogger:   <br />
+https://github.com/dsaveliev/rootsh
+10. Python-based pty – Pseudo-terminal utilities:   <br />
+https://docs.python.org/3/library/pty.html
+11. VIM runtime – VIM reference manual:   <br />
+https://github.com/vim/vim/blob/master/runtime/doc/terminal.txt
+12. WireTap:   <br />
+https://github.com/djhohnstein/WireTap
+13. GoRedSpy – A Go cross-platform screenshot spying tool:   <br />
+https://github.com/ahhh/GoRedSpy
+14. EyeWitness – A utility for taking screen captures of web UIs:   <br />
+https://github.com/FortyNorthSecurity/EyeWitness
+15. Mimikatz – Legendary Windows Password Dumping Multitool:   <br />
+https://github.com/gentilkiwi/mimikatz/wiki
+16. Windows Mimikatz – Writeup on using Mimikatz in operations:   <br />
+https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Windows%20-%20Mimikatz.md
+17. Linikatz – Linux memory-based password dumping tool:   <br />
+https://github.com/CiscoCXSecurity/linikatz
+18. MimiPenguin – Another Linux memory-based password dumping tool:   <br />
+https://github.com/huntergregal/mimipenguin
+19. 3snake – Dump SSHD and SUDO credential-related strings:   <br />
+https://github.com/blendin/3snake
+20. GoRedLoot – A Go cross-platform tool to search for secrets and keys:   <br />
+https://github.com/ahhh/goredloot
+21. SharpCollection – A group of C# offensive security utilities:   <br />
+https://github.com/Flangvik/SharpCollection
+22. Sudo Alias Trick – Steal Ubuntu & MacOS Sudo Passwords Without Any Cracking:   <br />
+https://null-byte.wonderhowto.com/how-to/steal-ubuntu-macossudo-passwords-without-any-cracking-0194190/
+23. pambd – PAM backdoor that uses a universal password:   <br />
+https://github.com/eurialo/pambd
+24. Exfiltrating credentials via PAM backdoors & DNS requests:   <br />
+https://x-c3ll.github.io/posts/PAM-backdoor-DNS/
+25. Linux PAM Backdoor with Patch File:   <br />
+https://github.com/zephrax/linux-pambackdoor
+26. Using ssh-agent with SSH:   <br />
+http://mah.everybody.org/docs/ssh
+27. SSH Agent Hijacking:   <br />
+https://www.clockwork.com/news/2012/09/28/602/ssh_agent_hijacking/
+28. SSH ControlMaster: The Good, The Bad, The Ugly:   <br />
+https://www.anchor.com.au/blog/2010/02/ssh-controlmaster-the-good-the-bad-the-ugly/
+29. Hijacking SSH to Inject Port Forwards:   <br />
+https://0xicf.wordpress.com/2015/03/13/hijacking-ssh-to-inject-port-forwards/
+30. RDP hijacking—how to hijack RDS and RemoteApp sessions transparently to move through an organization:   <br />
+https://doublepulsar.com/rdp-hijacking-how-tohijack-rds-and-remoteapp-sessions-transparently-to-move-through-anda2a1e73a5f6?gi=c7b52d944b52
+31. RDP Hijacking – All Windows TS Session Hijacking (2012 R2 Demo):   <br />
+https://www.youtube.com/watch?v=OgsoIoWmhWw
+32. Active Directory & Kerberos Abuse:   <br />
+https://www.ired.team/offensivesecurity-experiments/active-directory-kerberos-abuse
+33. Linux iptables: Block All Incoming Traffic But Allow SSH:   <br />
+https://www.cyberciti.biz/tips/linux-iptables-4-block-all-incoming-traffic-butallow-ssh.html
+34. Answer to iptables allow just internet connection question:   <br />
+https://askubuntu.com/questions/634788/iptables-allow-just-internet-connection
+35. How to Build a Read-Only File System on Linux:   <br />
+https://www.onlogic.com/company/io-hub/how-to-build-a-read-only-linux-system/
+36. chw00t: chroot Escape Tool:   <br />
+https://github.com/earthquake/chw00t
+37. A Guide for Apache in a chroot jail:   <br />
+https://tldp.org/LDP/solrhe/SecuringOptimizing-Linux-RH-Edition-v1.3/chap29sec254.html
+38. FTP: chroot Local User:   <br />
+https://beginlinux.com/server_training/ftpserver/1275-ftp-chroot-local-user
+39. NsJail – An Improved Jailing System Using Namespaces:   <br />
+https://github.com/google/nsjail
+40. protobuf – A platform neutral library for creating serialized data structures:   <br />
+https://github.com/protocolbuffers/protobuf
+41. Hack-back in the Real World:   <br />
+https://www.scriptjunkie.us/2017/08/hackback-in-the-real-world/
+42. Nmap Exploit – Using Portspoof to Exploit http-domino-enum-passwords.nse:   <br />
+https://www.youtube.com/watch?v=iyTmxRUaQ8M
 
-## Chapter 6
+
+## Chapter 7 - The Research Advantage
+1. GreeseMonkey – A browser automator:  <br />
+https://en.wikipedia.org/wiki/Greasemonkey
+2. Jon Erickson, Hacking: The Art of Exploitation:  <br />
+https://www.amazon.com/Hacking-Art-Exploitation-Jon-Erickson/dp/1593271441
+3. Open Security Training Exploits1 Course:  <br />
+https://opensecuritytraining.info/Exploits1.html
+4. RET2 Cyber Wargames:  <br />
+https://wargames.ret2.systems/
+5. RET2 Wargames Review:  <br />
+https://blog.ret2.io/2018/09/11/scalablesecurity-education/
+6. Modern Binary Exploitation (MBE):  <br />
+https://github.com/RPISEC/MBE
+7. Corelan free exploit tutorial:  <br />
+https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/
+8. How2heap – Educational Heap Exploitation:  <br />
+https://github.com/shellphish/how2heap
+9. Zerodium Vulnerability Purchase Program:  <br />
+https://www.zerodium.com/program.html
+10. Winning a Tesla Model S at Pwn2Own 2019:  <br />
+https://www.securityweek.com/pwn2own-2019-researchers-win-tesla-after-hacking-its-browser
+11. Pwn2Own 2021 Results:  <br />
+https://www.zerodayinitiative.com/blog/2021/4/2/pwn2own-2021-schedule-and-live-results
+12. DEF CON 25, 20 years of DEF CON CTF Organizers:  <br />
+https://www.youtube.com/watch?v=MbIDrs-mB20
+13. DEFCON 2015 CTF FINALS – Blog from DEF CON CTF 2015:  <br />
+https://research.kudelskisecurity.com/2015/08/25/defcon-2015-ctf-finals/
+14. Welcome to the New Order: A DEF CON 2018 Retrospective:  <br />
+https://dttw.tech/posts/Hka91N-IQ
+15. Kernel Panic: A DEF CON 2020 Retrospective:  <br />
+https://dttw.tech/posts/Skww4fzGP
+16. Have I Been Pwned, password exposure database:  <br />
+https://haveibeenpwned.com/FAQs
+17. Attacking SSH Over the Wire - Go Red Team! – Using Hydra to password spray:  <br />
+https://isc.sans.edu/forums/diary/Attacking+SSH+Over+the+Wire+Go+Red+Team/23000/
+18. go-netscan – a multiprotocol credential spraying tool:  <br />
+https://github.com/emperorcow/go-netscan
+19. Kim Zetter, Countdown to Zero Day: Stuxnet and the Launch of the World's First Digital Weapon:  <br />
+https://www.amazon.com/Countdown-Zero-Day-StuxnetDigital/dp/0770436196/
+20. A RocketChat 0-Day Vulnerability Discovered as part of CPTC 2020:  <br />
+https://securifyinc.com/disclosures/rocketchat-unauthenticated-access-tomessages
+21. RocketChat – Open-source chat solution:  <br />
+https://github.com/RocketChat/Rocket.Chat
+22. Patch diff of RocketChat adding authentication to loadHistory:  <br />
+https://github.com/RocketChat/Rocket.Chat/commit/ac9d7612a8fd6eae8074bd06e5449da843065be6#diff-61e120f3236b5f0bc942992a3cf0abfd107838aa5bff8cd0a1d9fc5320a43269
+23. Network Finger Printer – Go tool:  <br />
+https://github.com/awgh/nfp
+24. Dependency Hijacking Software Supply Chain Attack Hits More Than 35 Organizations: Alex Birsan's software supply chain attack:  <br />
+https://blog.sonatype.com/dependency-hijacking-software-supply-chain-attack-hitsmore-than-35-organizations
+25. Operation Aurora – Watering hole attack on Google and Apple:  <br />
+https://en.wikipedia.org/wiki/Operation_Aurora
+26. What is a Drive by Download:  <br />
+https://www.kaspersky.com/resource-center/definitions/drive-by-download
+27. Samy Kamkar:  <br />
+https://en.wikipedia.org/wiki/Samy_Kamkar
+28. NAT Slipstreaming v2.0:  <br />
+https://samy.pl/slipstream/
+29. Phish-in-the-Middle:  <br />
+https://twitter.com/Lares_/status/1258075069714235392
+30. Intelligence Concepts – F3EAD:  <br />
+https://sroberts.io/blog/2015-03-24-intelligence-concepts-f3ead/
+31. Threat Hunting for Swear Words:  <br />
+https://twitter.com/stvemillertime/status/1100399116876533760
+32. Adam Shostack, Threat Modeling: Designing for Security:  <br />
+https://www.amazon.com/Threat-Modeling-Designing-Adam-Shostack/dp/1118809998
+33. Inversecos' tweet about Cobalt Strike:  <br />
+https://twitter.com/inversecos/status/1377415476892987395
+34. BeaconHunter – Cobalt Strike detection tool:  <br />
+https://github.com/3lp4tr0n/beaconhunter
+35. The Ultimate Guide to Procmon:  <br />
+https://adamtheautomator.com/procmon/
+36. AmCache and ShimCache in forensic analysis:  <br />
+https://www.andreafortuna.org/2017/10/16/amcache-and-shimcache-in-forensic-analysis/
+37. Digital Forensics – ShimCache Artifacts:  <br />
+https://countuponsecurity.com/2016/05/18/digital-forensics-shimcache-artifacts/
+38. Blanche Lagny, 2019, Analysis of the AmCache v2:  <br />
+https://www.ssi.gouv.fr/uploads/2019/01/anssi-coriin_2019-analysis_amcache.pdf
+39. David Cowen's Daily Blog #579: The meaning of Syscache.hve:  <br />
+https://www.hecfblog.com/2018/12/daily-blog-579-meaning-of-syscachehve.html
+40. Ubisoft's Advanced Anti-cheat in Rainbow Six Siege:  <br />
+https://www.ubisoft.com/en-us/game/rainbow-six/siege/news-updates/4CpkSOfyxgYhc5a4SbBTx/devblog-update-on-anticheat-in-rainbow-six-siege
 
 
-
-
-## Chapter 7 
-
-
-
-## Chapter 8
+## Chapter 8 - Clearing the Field
+1. MITRE ATT&CK: Exfil Over C2 Channel: <br />
+https://attack.mitre.org/techniques/T1041/
+2. Steganography – LSB Introduction with Python – Part 1: <br />
+https://itnext.io/steganography-101-lsb-introduction-with-python4c4803e08041?gi=9e7917a5ff8c
+3. Whitespace Steganography Conceals Web Shell in PHP Malware: <br />
+https://securityboulevard.com/2021/02/whitespace-steganography-conceals-webshell-in-php-malware/
+4. Snow – a whitespace-based steganography tool: <br />
+http://www.darkside.com.au/snow/
+5. PacketWhisper: <br />
+https://github.com/TryCatchHCF/PacketWhisper
+6. Cloakify kit – a substitution-based steganographic toolkit: <br />
+https://github.com/TryCatchHCF/Cloakify
+7. Man-on-the-side attack: <br />
+https://en.wikipedia.org/wiki/Man-on-the-side_attack
+8. Tor exit node list: <br />
+https://check.torproject.org/torbulkexitlist
+9. pystemon – Monitoring tool for Pastebin-like sites: <br />
+https://github.com/cvandeplas/pystemon
+10. Private network – RFC 1918 private network addresses: <br />
+https://en.wikipedia.org/wiki/Private_network
+11. An example of kill date gscript: <br />
+https://github.com/ahhh/gscripts/blob/d66c791dc01d17a088144d902695e8b1508f03e4/anti-re/kill_date.gs
+12. Active Directory (AD) – Krbtgt account password: <br />
+https://itworldjd.wordpress.com/2015/04/07/krbtgt-account-password-reset-scripts/
+13. How to generate and use a golden ticket: <br />
+https://blog.gentilkiwi.com/securite/mimikatz/golden-ticket-kerberos
+14. FireEye Shares Details of Recent Cyber Attack, Actions to Protect Community – FireEye breached through the SolarWinds software supply chain attack: <br />
+https://www.fireeye.com/blog/products-and-services/2020/12/fireeye-sharesdetails-of-recent-cyber-attack-actions-to-protect-community.html
 
 
