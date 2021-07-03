@@ -9,7 +9,7 @@ The following are people mentioned in the text in one way or another, while not 
 [John Kennedy](https://twitter.com/0xpookie) - editing <br />
 [Louis Barrett](https://github.com/louisbarrett) - editing <br />
 [Joe Demesy](https://twitter.com/littlejoetables) - editing & Sliver developer <br />
-[Alex Levinson](https://twitter.com/alexlevinson?) - editing & pages 59, 209 <br />
+[Alex Levinson](https://twitter.com/alexlevinson) - editing & pages 59, 209 <br />
 [National CCDC](https://twitter.com/NationalCCDC/) - pages 13, 184 <br />
 [Pros v Joes](http://prosversusjoes.net/) - pages 13, 54, 184 <br />
 [Linda Pesante](https://resources.sei.cmu.edu/library/author.cfm?authorid=4121) - page 3 <br />
@@ -64,6 +64,8 @@ The following are people mentioned in the text in one way or another, while not 
 [RPIsec](https://twitter.com/RPIsec) - page 181 <br />
 [Daniel Miessler](https://twitter.com/danielmiessler) - page 184 <br />
 [Awgh](https://github.com/awgh) - page 186 <br />
+[Alex Birson](https://twitter.com/alxbrsn) - page 186 <br />
+[Lares](https://twitter.com/lares_) - page 187 <br />
 [Samy Kamkar](https://twitter.com/samykamkar) - page 187 <br /> 
 [Adam Shostack](https://twitter.com/adamshostack) - page 189 <br />
 [Steve Miller](https://twitter.com/stvemillertime) - page 189 <br />
