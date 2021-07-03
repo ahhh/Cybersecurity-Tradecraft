@@ -1,7 +1,7 @@
 # Shoutouts
 The following are people mentioned in the text in one way or another, while not necessary including a dedicated reference. 
 
-[Taylor Leach](https://twitter.com/fadec0d3) - Cover art + editing <br />
+[Taylor Leach](https://twitter.com/taylorleach) - Cover art + editing <br />
 [Jeff Foley](https://twitter.com/jeff_foley) - editing <br />
 [Lucas Morris](https://twitter.com/lucasjmorris) - editing <br />
 [Chris McCann](https://twitter.com/cmcsec) - editing <br />
