@@ -51,7 +51,7 @@ The following are people mentioned in the text in one way or another, while not 
 [Vlad Rico](https://twitter.com/ricovlad) - page 130 <br />
 [Xavier Martens](https://twitter.com/xme) - page 134 <br />
 [Sandfly Security](https://twitter.com/SandflySecurity) - page 135 <br />
-[Mathias Jenssen](https://twitter.com/iisresetme) - page 141 <br />
+[Mathias Jessen](https://twitter.com/iisresetme) - page 141 <br />
 [David Fifield](https://www.bamsoftware.com/talks/) - page 142 <br />
 [Chris Fosterelli](https://twitter.com/chrisfosterelli) - page 152 <br />
 [Neon Tokyo](https://twitter.com/tokyoneon_) - page 157 <br />
@@ -75,5 +75,5 @@ The following are people mentioned in the text in one way or another, while not 
 [TryCatchHCF](https://twitter.com/trycatchhcf) - page 200 <br />
 
 
-There are likely more mentions that I missed when going through and putting this list together. If you think this list is messing a mention please open an issue :) <br />
+There are likely more mentions that I missed when going through and putting this list together. If you think this list is missing a mention please open an issue :) <br />
 There are also about 350 [references](https://github.com/ahhh/Cybersecurity-Tradecraft/blob/main/References/references.md) throughout this book, so it's likly a tool or blog post you've worked on is in there instead of the shoutouts
