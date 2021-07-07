@@ -20,7 +20,7 @@ This chapter covers several topics such as:
 
 ### CIAAAN
 
-CIAAAN stands for **confidentiality**, **integrity**, **availability**, **authentication**, **autherization**, and **non-repudiation**
+CIAAAN stands for **confidentiality**, **integrity**, **availability**, **authentication**, **authorization**, and **non-repudiation**
 
 
 **Confidentiality** is the ability to keep communications secret. This means data can't be read by unauthorized parties.
