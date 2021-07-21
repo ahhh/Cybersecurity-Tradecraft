@@ -14,7 +14,7 @@
   - [Dr. Chase Cunningham Approves](https://www.linkedin.com/feed/update/urn:li:share:6818204517738270720)
   - [![Cyber Review](https://img.youtube.com/vi/7aEwqXur_2o/0.jpg)](https://www.youtube.com/watch?v=7aEwqXur_2o)
   - [![Infosec Decoded](https://img.youtube.com/vi/qThVkX0zfec/0.jpg)](https://www.youtube.com/watch?v=qThVkX0zfec)
-  - [![Matthew Rosenquist and Ken Underhill](https://pbs.twimg.com/media/E6Qf9-CVkAI1M3D?format=jpg&name=small)]()
+  - [![Matthew Rosenquist and Ken Underhill](https://pbs.twimg.com/media/E6Qf9-CVkAI1M3D?format=jpg&name=small)](https://twitter.com/PacktPub/status/1415294207921508360/photo/1)
 
 
 ## Things to do
