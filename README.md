@@ -13,5 +13,7 @@ A repo to support the book
   - [Chapter 6: Real-Time Conflict](https://github.com/ahhh/Cybersecurity-Tradecraft/tree/main/Chapter6)
   - [Chapter 7: The Research Advantage](https://github.com/ahhh/Cybersecurity-Tradecraft/tree/main/Chapter7)
   - [Chapter 8: Clearing the Field](https://github.com/ahhh/Cybersecurity-Tradecraft/tree/main/Chapter8)
+  - [References](https://raw.githubusercontent.com/ahhh/Cybersecurity-Tradecraft/main/References/references.md)
+  - [Greetz](https://raw.githubusercontent.com/ahhh/Cybersecurity-Tradecraft/main/References/shoutouts.md)
 
 ## Then write an amazon review or open an issue!
