@@ -11,6 +11,7 @@
 - Some awesome reviews:
   - [BreakSec Interview Part 1](https://brakeingsecurity.com/2021-024-dan-borges-author-of-adversarial-techniquees-from-packt-publishing)
   - [BreakSec Interview Part 2](https://brakeingsecurity.com/2021-025-dan-borges-author-of-adversarial-techniques-from-packt-publishing)
+  - [ITSP Magazine Podcast](https://itspmagazinepodcast.com/episodes/book-adversarial-tradecraft-in-cybersecurity-offense-versus-defense-in-real-time-computer-conflict-theories-and-practical-tools-to-excel-in-a-cyber-conflict-redefining-security-with-author-dan-borges-ji0TB1u2)
   - [Dr. Chase Cunningham Approves](https://www.linkedin.com/feed/update/urn:li:share:6818204517738270720)
   - [![Cyber Review](https://img.youtube.com/vi/7aEwqXur_2o/0.jpg)](https://www.youtube.com/watch?v=7aEwqXur_2o)
   - [![Infosec Decoded](https://img.youtube.com/vi/qThVkX0zfec/0.jpg)](https://www.youtube.com/watch?v=qThVkX0zfec)
